@@ -1,0 +1,40 @@
+[
+  {
+    "title": "C#",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": ".Net",
+    "imageSrc": "skills/Net.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java.gif"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/boot.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  }
+
+
+]

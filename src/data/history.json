@@ -1,0 +1,51 @@
+[
+  {
+    "role": ".Net Backend Development",
+    "organisation": "E & M Technologies",
+    "startDate": "January 3, 2024",
+    "endDate": "June 29, 2024",
+    "experiences": [
+      "Developed a Group Special Asset Management System allowing financial institutions to monitor and take actions bigger loans that are in distress",
+      "Utilized RESTful APIs for fetching bank customers from the API",
+      "Created responsive frontend using React, TypeScript, Tailwind CSS, and HTML",
+      "Engineered dynamic backend with C#,.Net and SQL Server",
+      "Deployed application on AWS for high availability"
+    ],
+    "imageSrc": "history/Gsam.png"
+  },
+  {
+    "role": "Java Backend Development",
+    "organisation": "E & M Technologies",
+    "startDate": "Jan, 2023",
+    "endDate": "June 2024",
+    "experiences": [
+      "Worked on a sacco core banking system",
+      "Worked on a Group Special Asset Management System"
+    ],
+    "imageSrc": "history/corebanking.png"
+  },
+  {
+    "role": "AI Hackathon",
+    "organisation": "ALX Software Engineering",
+    "startDate": "November, 2023",
+    "endDate": "Decemer, 2023",
+    "experiences": [
+      "Worked on a business plan generator",
+      "Consumed OpenAI API",
+      "Deployed application on pythonanywhere"
+    ],
+    "imageSrc": "history/Biz.png"
+  },
+  {
+    "role": "FullStack development",
+    "organisation": "ALX Software Engineering",
+    "startDate": "Dec, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Created an Ecommerce website for selling book using C# and .Net",
+      "Used SQL Server to store site information"
+    ],
+    "imageSrc": "history/Ecommerce.png"
+  }
+
+]

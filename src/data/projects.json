@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Ecommerce website",
+    "imageSrc": "projects/Ecommerce.png",
+    "description": "Developed an Ecommerce website that allows sellers to track their stock and sales as well as enabling seamless payment within the site",
+    "skills": [
+      " ASP.NET Core MVC",
+      "Entity Framework Core",
+      "MS SQL",
+      "ASP.NET Core Identity.",
+      "Razor Pages",
+      "C#"
+    ],
+    "demo": "",
+    "source": "https://github.com/reggyshicky/.NET-Core-MVC--E-commerce-app"
+  },
+  {
+    "title": "BizPlan",
+    "imageSrc": "projects/bizplan.png",
+    "description": "Used OpenAI API to generate custom business plan. I learned to leverage the power of AI.",
+    "skills": ["Python", "Django", "Bootstrap", "MySQL"],
+    "demo": "https://reginah.pythonanywhere.com/",
+    "source": "https://github.com/reggyshicky/Business-Plan-Generator"
+  },
+  {
+    "title": "RESTful web API",
+    "imageSrc": "projects/Api.png",
+    "description": "Built a Restful API and web application that consumed the API",
+    "skills": ["C#", "ASP NET Core web API", "Entity Framework", "MS MySQL"],
+    "source": "https://github.com/reggyshicky/RESTful-Web-API-.NET7"
+  },
+  {
+    "title": "AdminTrack",
+    "imageSrc": "projects/AdminTrack.png",
+    "description": "Learned more about backend development using Python and Django",
+    "skills": ["Python", "Django", "Bootstrap", "MySQL"],
+    "source": "https://github.com/reggyshicky/AdminTrack"
+  }
+]
